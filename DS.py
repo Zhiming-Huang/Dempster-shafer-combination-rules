@@ -9,7 +9,7 @@ Dempster-Shafer Combination rule
 from numpy import *
 
 def DSCombination (Dic1, Dic2):
-    ## etract the frame dicernment      
+    ## extract the frame dicernment      
     sets=set(Dic1.keys()).union(set(Dic2.keys()))
     Result=dict.fromkeys(sets,0)
     ## Combination process

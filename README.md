@@ -31,4 +31,4 @@ The results would be
  'b': 0.19999999999999998,
  'c': 0.0}
 ```
-Continueing edition will consider the situation of confliction. 
+Following editions will consider the situation of confliction. 
